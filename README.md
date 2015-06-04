@@ -6,4 +6,4 @@ This example uses a Si5351 RF generator under the control of an Arduino to gener
 User interface is realised through an interrupt-driven rotary encoder, a pair of push buttons and an LCD display. 
 
 For further information see http://m0xpd.blogspot.co.uk/2014/12/parallel-if.html
-
+and https://sites.google.com/site/parallelifarchitecture/home
